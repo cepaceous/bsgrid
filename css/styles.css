@@ -1,0 +1,39 @@
+#backdrop {
+    background-color: yellow;
+}
+
+header {
+    background-color: blue;
+}
+
+nav {
+    background-color: green;
+}
+
+main {
+    background-color: red;
+}
+
+aside {
+    background-color: turquoise;
+}
+
+section {
+    background-color: orange;
+}
+
+footer {
+    background-color: black;
+}
+
+header, section {
+    height: 150px;
+}
+
+nav, footer {
+    height: 75px;
+}
+
+main, aside {
+    height: 200px;
+}
